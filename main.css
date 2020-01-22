@@ -82,6 +82,8 @@ ul.topnav li.right {float: right;}
   padding-right: 25px;
 }
 
+div { align="center"
+}
 .button:hover span:after {
   opacity: 1;
   right: 0;
